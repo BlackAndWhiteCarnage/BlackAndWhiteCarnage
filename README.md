@@ -1,17 +1,16 @@
 # Hi! My name is Chris 👋
 
-## 🔥 My portfolio 
-<br />
-https://portfoliorepsch.netlify.app/
-<br /><br />
-
-## ❓ About Me 
-
 <br />
 
 **I'm 22 years old and currently I live in Otwock.<br />
 Im in love with classic Rock music , comedies with<br />
 Leslie Nielsen and of course coding! 🎸🎞**
+
+<br />
+
+## 🔥 My portfolio 
+<br />
+https://portfoliorepsch.netlify.app/
 <br /><br />
 
 ## 🔧 My Tech Stack 
@@ -53,6 +52,8 @@ Leslie Nielsen and of course coding! 🎸🎞**
 So let's sink in it together! 🏊‍♀️**
 
 ### Peace ✌️
+
+<br />
 
 ![Alt Text](https://c.tenor.com/j5YcO9slE7YAAAAC/leslie-nielsen-nothing-to-see-here.gif)
 
