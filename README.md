@@ -1,7 +1,5 @@
 # Hi! My name is Chris 👋
 
-<br />
-
 ## 🔥 My portfolio 
 <br />
 https://portfoliorepsch.netlify.app/
@@ -37,9 +35,11 @@ So let's sink in it together! 🏊‍♀️
 
 <br />
 
+### Peace ✌️
+
 ![Alt Text](https://c.tenor.com/j5YcO9slE7YAAAAC/leslie-nielsen-nothing-to-see-here.gif)
 
-### Peace ✌️
+
 
 
 
