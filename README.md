@@ -2,21 +2,23 @@
 
 <br />
 
-### 🔥 My portfolio 
-
+## 🔥 My portfolio 
+<br />
 https://portfoliorepsch.netlify.app/
-<hr />
+<br /><br />
 
+## ❓ About Me 
 
-### ❓ About Me 
+<br />
 
 I'm 22 years old and currently I live in Otwock.<br />
 Im in love with classic Rock music , comedies with<br />
 Leslie Nielsen and of course coding! 🎸🎞
-<hr />
+<br /><br />
 
+## 🔧 My Tech Stack 
 
-### 🔧 My Tech Stack 
+<br />
 
 - HTML
 - CSS
@@ -25,8 +27,8 @@ Leslie Nielsen and of course coding! 🎸🎞
 - React
 - Three.js Basics
 - Figma
-<hr />
 
+<br />
 
 ### Also... 
 
