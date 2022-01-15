@@ -6,7 +6,6 @@
 Im in love with classic Rock music , comedies with<br />
 Leslie Nielsen and of course coding! 🎸🎞**
 
-<br />
 
 ## 🔥 My portfolio 
 <br />
