@@ -9,22 +9,22 @@ https://portfoliorepsch.netlify.app/
 
 <br />
 
-I'm 22 years old and currently I live in Otwock.<br />
+**I'm 22 years old and currently I live in Otwock.<br />
 Im in love with classic Rock music , comedies with<br />
-Leslie Nielsen and of course coding! 🎸🎞
+Leslie Nielsen and of course coding! 🎸🎞**
 <br /><br />
 
 ## 🔧 My Tech Stack 
 
 <br />
 
-- HTML
-- CSS
-- SCSS
-- JavaScript
-- React
-- Three.js Basics
-- Figma
+- **HTML**
+- **CSS**
+- **SCSS**
+- **JavaScript**
+- **React**
+- **Three.js Basics**
+- **Figma**
 
 <br />
 
@@ -32,25 +32,25 @@ Leslie Nielsen and of course coding! 🎸🎞
 
 <br />
 
-Shop for a used underwear fetishists 💋
+**Shop for a used underwear fetishists 💋**
 - https://euphorianoszonabielizna.pl/
 
 <br />
 
-Website for my parents maltese breeding 🐶
+**Website for my parents maltese breeding 🐶**
 - https://lamiapassionemaltese.pl/
 
 <br />
 
-Influencer Marketing & Products Photography Website 💻
+**Influencer Marketing & Products Photography Website 💻**
 - https://mrssikorka.pl/
 
 <br />
 
 ## Also... 
 
-Im always hungry for learning new things cause the <br />programming swamp is incredible. ⌨️🖥<br />
-So let's sink in it together! 🏊‍♀️
+**Im always hungry for learning new things cause the <br />programming swamp is incredible. ⌨️🖥<br />
+So let's sink in it together! 🏊‍♀️**
 
 ### Peace ✌️
 
