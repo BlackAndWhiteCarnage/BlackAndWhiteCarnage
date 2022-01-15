@@ -1,7 +1,7 @@
 # Hi! My name is Chris 👋
 
 **I'm 22 years old and currently I live in Otwock.<br />
-Im in love with classic Rock music , comedies with<br />
+Im in love with classic Rock music, comedies with<br />
 Leslie Nielsen and of course coding! 🎸🎞**
 
 <br />
