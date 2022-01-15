@@ -28,12 +28,29 @@ Leslie Nielsen and of course coding! 🎸🎞
 
 <br />
 
-### Also... 
+## 📐 My Flagship Projects
+
+<br />
+
+Shop for a used underwear fetishists 💋
+- https://euphorianoszonabielizna.pl/
+
+<br />
+
+Website for my parents maltese breeding 🐶
+- https://lamiapassionemaltese.pl/
+
+<br />
+
+Influencer Marketing & Products Photography Website 💻
+- https://mrssikorka.pl/
+
+<br />
+
+## Also... 
 
 Im always hungry for learning new things cause the <br />programming swamp is incredible. ⌨️🖥<br />
 So let's sink in it together! 🏊‍♀️
-
-<br />
 
 ### Peace ✌️
 
