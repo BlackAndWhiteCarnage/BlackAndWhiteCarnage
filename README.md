@@ -1,15 +1,22 @@
-# Hi! My name is Chris. Welcome to my Github account 👋
+# Hi! My name is Chris 👋
 
-### My portfolio 🔥
+<br />
+
+### 🔥 My portfolio 
 
 https://portfoliorepsch.netlify.app/
+<hr />
 
-### About Me ❓
 
-I'm 22 years old and currently I live in Otwock.
-Im in love with classic Rock music, comedies with Leslie Nielsen and of course coding!
+### ❓ About Me 
 
-### My Tech Stack 🔧
+I'm 22 years old and currently I live in Otwock.<br />
+Im in love with classic Rock music , comedies with<br />
+Leslie Nielsen and of course coding! 🎸🎞
+<hr />
+
+
+### 🔧 My Tech Stack 
 
 - HTML
 - CSS
@@ -18,8 +25,14 @@ Im in love with classic Rock music, comedies with Leslie Nielsen and of course c
 - React
 - Three.js Basics
 - Figma
+<hr />
 
-Also Im always hungry for learning new things cause programming swamp is incredible. ⌨️🖥
-Let's sink in it together! 🏊‍♀️
 
-Peace ✌️
+### Also... 
+
+Im always hungry for learning new things cause the <br />programming swamp is incredible. ⌨️🖥<br />
+So let's sink in it together! 🏊‍♀️
+
+<br />
+
+### Peace ✌️
