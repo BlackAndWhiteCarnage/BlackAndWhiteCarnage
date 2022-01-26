@@ -21,6 +21,14 @@ https://portfoliorepsch.netlify.app/
 - **Three.js Basics**
 - **Figma**
 
+### Currently learning:
+- **TypeScript**
+
+### Wanna learn:
+- **React Testing Library**
+- **Next.js**
+- **Advanced Three.js**
+
 <br />
 
 ## 📐 My Flagship Projects
