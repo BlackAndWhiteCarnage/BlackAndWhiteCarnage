@@ -1,7 +1,7 @@
 # Hi! My name is Chris 👋
 
-**I'm 22 years old and currently I live in Otwock.<br />
-Im in love with classic Rock music, comedies with<br />
+**I'm 22 years old and currently I am from Otwock.<br />
+I'm in love with classic rock music, comedies with<br />
 Leslie Nielsen and of course coding! 🎸🎞**
 
 <br />
@@ -51,7 +51,7 @@ https://portfoliorepsch.netlify.app/
 
 ## Also... 
 
-**Im always hungry for learning new things cause the <br />programming swamp is incredible. ⌨️🖥<br />
+**I'm always hungry for learning new things cause the <br />programming swamp is incredible. ⌨️🖥<br />
 So let's sink in it together! 🏊‍♀️**
 
 ### Peace ✌️
