@@ -33,9 +33,9 @@ https://portfoliorepsch.netlify.app/
 
 ### Currently learning:
 - **TypeScript**
+- -**Testing in React**
 
 ### Wanna learn:
-- **React Testing Library**
 - **Next.js**
 - **Advanced Three.js**
 
