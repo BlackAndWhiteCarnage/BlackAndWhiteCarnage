@@ -33,7 +33,7 @@ https://portfoliorepsch.netlify.app/
 
 ### Currently learning:
 - **TypeScript**
-- -**Testing in React**
+- **Testing in React**
 
 ### Wanna learn:
 - **Next.js**
