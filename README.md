@@ -65,7 +65,7 @@ https://portfoliorepsch.netlify.app/
 
 <br />
 
-## Also... 
+## *Also...* 
 
 **I'm always hungry for learning new things cause the <br />programming swamp is incredible. ⌨️🖥<br />
 So let's sink in it together! 🏊‍♀️**
