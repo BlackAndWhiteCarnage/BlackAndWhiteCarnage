@@ -45,17 +45,23 @@ https://portfoliorepsch.netlify.app/
 
 
 **Shop for a used underwear fetishists 💋**
-- https://euphorianoszonabielizna.pl/
+<br />
+<br /> Live: https://euphorianoszonabielizna.pl/
+<br /> Repo: https://github.com/BlackAndWhiteCarnage/EUPHORIA
 
 <br />
 
 **Website for my parents maltese breeding 🐶**
-- https://lamiapassionemaltese.pl/
+<br />
+<br /> Live: https://lamiapassionemaltese.pl/
+<br /> Repo: https://github.com/BlackAndWhiteCarnage/La-Mia-Passion-Maltese
 
 <br />
 
 **Influencer Marketing & Products Photography Website 💻**
-- https://mrssikorka.pl/
+<br />
+<br /> Live: https://mrssikorka.pl/
+<br /> Repo: https://github.com/BlackAndWhiteCarnage/Mrs.Sikorka
 
 <br />
 
