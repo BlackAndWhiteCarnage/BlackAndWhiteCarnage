@@ -5,7 +5,7 @@
 
 ## 👾 Something About Me
 
-**I am 22 years old and currently I live in Otwock.<br />
+**I am 23 years old and currently I live in Otwock.<br />
 I'm in love with classic rock music, comedies with<br />
 Leslie Nielsen and of course coding! 🎸🎞**
 
@@ -27,12 +27,12 @@ https://portfoliorepsch.netlify.app/
 - **CSS**
 - **SCSS**
 - **JavaScript**
+- **TypeScript**
 - **React**
 - **Three.js Basics**
 - **Figma**
 
 ### Currently learning:
-- **TypeScript**
 - **Testing in React**
 
 ### Wanna learn:
