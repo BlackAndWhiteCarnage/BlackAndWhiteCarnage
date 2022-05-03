@@ -33,11 +33,13 @@ https://portfoliorepsch.netlify.app/
 - **Figma**
 
 ### Currently learning:
-- **Testing in React**
+- **Wordpress**
+- **PHP**
 
 ### Wanna learn:
 - **Next.js**
 - **Advanced Three.js**
+- **Testing in React**
 
 <br />
 
