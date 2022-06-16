@@ -37,7 +37,6 @@ https://portfoliorepsch.netlify.app/
 - **PHP**
 
 ### Wanna learn:
-- **Next.js**
 - **Advanced Three.js**
 - **Testing in React**
 
