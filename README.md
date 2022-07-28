@@ -29,16 +29,18 @@ https://portfoliorepsch.netlify.app/
 - **JavaScript**
 - **TypeScript**
 - **React**
+- **Storybook**
+- **Styled Components**
 - **Three.js Basics**
+- **PHP Basics**
 - **Figma**
 
 ### Currently learning:
 - **Wordpress**
-- **PHP**
+- **Testing in React**
 
 ### Wanna learn:
 - **Advanced Three.js**
-- **Testing in React**
 
 <br />
 
