@@ -34,10 +34,10 @@ https://portfoliorepsch.netlify.app/
 - **Three.js Basics**
 - **PHP Basics**
 - **Figma**
+- **React testing library**
 
 ### Currently learning:
 - **Wordpress**
-- **Testing in React**
 
 ### Wanna learn:
 - **Advanced Three.js**
