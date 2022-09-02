@@ -37,7 +37,7 @@ https://portfoliorepsch.netlify.app/
 - **Figma**
 - **React testing library**
 
-### Currently learning:
+### Learning in progress:
 - **Wordpress**
 
 ### Wanna learn:
