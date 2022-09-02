@@ -31,6 +31,7 @@ https://portfoliorepsch.netlify.app/
 - **React**
 - **Storybook**
 - **Styled Components**
+- **CSS Modules**
 - **Three.js Basics**
 - **PHP Basics**
 - **Figma**
