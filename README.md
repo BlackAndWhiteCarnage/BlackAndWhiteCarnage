@@ -39,6 +39,7 @@ https://portfoliorepsch.netlify.app/
 
 ### Learning in progress:
 - **Wordpress**
+- **Next.js**
 
 ### Wanna learn:
 - **Advanced Three.js**
