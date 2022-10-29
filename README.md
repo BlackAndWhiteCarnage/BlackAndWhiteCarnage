@@ -5,7 +5,7 @@
 
 ## 👾 Something About Me
 
-**I am 23 years old and currently I live in Otwock.<br />
+**I am 23yo dev from Poland.<br />
 I'm in love with classic rock music, comedies with<br />
 Leslie Nielsen and of course coding! 🎸🎞**
 
@@ -46,29 +46,6 @@ https://portfoliorepsch.netlify.app/
 
 <br />
 
-## 📐 My Flagship Projects
-
-
-**Shop for a used underwear fetishists 💋**
-<br />
-<br /> Live: https://euphorianoszonabielizna.pl/
-<br /> Repo: https://github.com/BlackAndWhiteCarnage/EUPHORIA
-
-<br />
-
-**Website for my parents maltese breeding 🐶**
-<br />
-<br /> Live: https://lamiapassionemaltese.pl/
-<br /> Repo: https://github.com/BlackAndWhiteCarnage/La-Mia-Passion-Maltese
-
-<br />
-
-**Influencer Marketing & Products Photography Website 💻**
-<br />
-<br /> Live: https://mrssikorka.pl/
-<br /> Repo: https://github.com/BlackAndWhiteCarnage/Mrs.Sikorka
-
-<br />
 
 ## *Also...* 
 
