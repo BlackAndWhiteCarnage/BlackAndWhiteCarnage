@@ -16,10 +16,6 @@ Leslie Nielsen and of course coding! 🎸🎞**
 
 <br />
 
-## 🔥 My portfolio 
-https://portfoliorepsch.netlify.app/
-<br /><br />
-
 ## 🔧 My Tech Stack 
 
 
