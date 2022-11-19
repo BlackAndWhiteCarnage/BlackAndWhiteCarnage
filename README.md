@@ -34,7 +34,6 @@ Leslie Nielsen and of course coding! 🎸🎞**
 - **React testing library**
 
 ### Currently learning:
-- **Wordpress**
 - **Next.js**
 
 ### Wanna learn:
