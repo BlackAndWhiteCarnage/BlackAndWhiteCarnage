@@ -5,9 +5,9 @@
 
 ## 👾 𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-**I am 23 years old dev from Poland. <br />
+I am 23 years old dev from Poland. <br />
 I'm in love with classic rock music, comedies with <br />
-Leslie Nielsen and of course coding! 🎸🎞 **
+Leslie Nielsen and of course coding! 🎸🎞
 
 <a href="mailto:krzys.repsch@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/krzysztof-repsch-892146231">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -44,9 +44,9 @@ Leslie Nielsen and of course coding! 🎸🎞 **
 
 ## *Also...* 
 
-** I'm always hungry for learning new things cause the <br />
+I'm always hungry for learning new things cause the <br />
 programming swamp is incredible. ⌨️🖥 <br />
-So let's sink in it together! 🏊‍ ♀️**
+So let's sink in it together! 🏊‍♀️
 
 ### 𝗣𝗲𝗮𝗰𝗲 ✌️
 
