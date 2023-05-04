@@ -32,9 +32,11 @@ Leslie Nielsen and of course coding! 🎸🎞
 - **PHP Basics**
 - **Figma**
 - **React testing library**
+- **Next.js**
+- **Graphql Basics**
 
 ### 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
-- **Next.js**
+- **Stuff related to working with Next.js**
 
 ### 𝗪𝗮𝗻𝗻𝗮 𝗹𝗲𝗮𝗿𝗻:
 - **Advanced Three.js**
