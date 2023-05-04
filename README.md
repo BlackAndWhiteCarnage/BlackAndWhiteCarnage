@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/71930296/236230350-82a02097-48f0-4abc-bd0d-874f24dde0fa.svg" alt="" width='100%'/>
 
-<div width="100%">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlackAndWhiteCarnage&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
 
 ## 👾 𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
