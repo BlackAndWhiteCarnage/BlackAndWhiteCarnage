@@ -2,7 +2,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlackAndWhiteCarnage&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<div align="center">
 ## 👾 𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
 I am 24 years old dev from Poland. <br />
@@ -55,7 +54,7 @@ So let's sink in it together! 🏊‍♀️
 <br />
 
 ![Alt Text](https://c.tenor.com/j5YcO9slE7YAAAAC/leslie-nielsen-nothing-to-see-here.gif)
-</div>
+
 
 
 
