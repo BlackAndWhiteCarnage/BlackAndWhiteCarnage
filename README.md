@@ -1,5 +1,4 @@
-![Group 518](https://user-images.githubusercontent.com/71930296/236228885-c529359d-3d6e-48d9-9fa4-a50554e949d0.png)
-
+<img src="[./src/assets/icons/logo-icon.svg](https://user-images.githubusercontent.com/71930296/236228885-c529359d-3d6e-48d9-9fa4-a50554e949d0.png)" alt="" width='100%'/>
 
 # 𝗛𝗶! 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗖𝗵𝗿𝗶𝘀 👋
 
