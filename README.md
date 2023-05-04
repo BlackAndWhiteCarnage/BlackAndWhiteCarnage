@@ -53,8 +53,7 @@ So let's sink in it together! 🏊‍♀️
 
 <br />
 
-![Alt Text](https://c.tenor.com/j5YcO9slE7YAAAAC/leslie-nielsen-nothing-to-see-here.gif)
-
+<img src="https://c.tenor.com/j5YcO9slE7YAAAAC/leslie-nielsen-nothing-to-see-here.gif" alt="" width='100%'/>
 
 
 
