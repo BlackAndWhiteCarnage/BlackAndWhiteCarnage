@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/71930296/236229889-ef677978-7ee9-44c8-9f2e-478dac87ad59.svg" alt="" width='100%'/>
-
-# 𝗛𝗶! 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗖𝗵𝗿𝗶𝘀 👋
+<img src="https://user-images.githubusercontent.com/71930296/236230350-82a02097-48f0-4abc-bd0d-874f24dde0fa.svg" alt="" width='100%'/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlackAndWhiteCarnage&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
