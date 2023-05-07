@@ -4,9 +4,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlackAndWhiteCarnage&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<br />
 
-( ͡° ͜ʖ ͡°)
-## 𝗖𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝗺𝘆 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼
+## 𝗖𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝗺𝘆 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 ( ͡° ͜ʖ ͡°)
 https://portfoliorepsch.netlify.app/
 
 <br />
