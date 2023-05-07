@@ -4,15 +4,18 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlackAndWhiteCarnage&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+( ͡° ͜ʖ ͡°)
+## 𝗖𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝗺𝘆 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼
+https://portfoliorepsch.netlify.app/
+
+<br />
+
 ## 👾 𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
 I am 24 years old dev from Poland. <br />
 I'm in love with classic rock music, comedies with <br />
 Leslie Nielsen and of course coding! 🎸🎞
-
-( ͡° ͜ʖ ͡°)
-## 𝗖𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝗺𝘆 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼
-https://portfoliorepsch.netlify.app/
 
 <a href="https://www.linkedin.com/in/krzysztof-repsch-892146231">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
