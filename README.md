@@ -25,30 +25,38 @@ Leslie Nielsen and of course coding! 🎸🎞
 
 <br />
 
-## 🔧 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
-
+## 🔧 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝘁𝗵𝗮𝘁 𝗜 𝗸𝗻𝗼𝘄:
 
 - **HTML**
 - **CSS**
 - **SCSS**
-- **JavaScript**
-- **TypeScript**
-- **React**
-- **Storybook**
 - **Styled Components**
-- **CSS Modules**
-- **Three.js Basics**
-- **PHP Basics**
-- **Figma**
-- **React testing library**
+- **Css Modules**
+- **Javascript**
+- **Typescript**
+- **React**
 - **Next.js**
-- **Graphql Basics**
+- **Storybook**
+- **React Three**
+- **Framer Motion**
 
-### 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
-- **Stuff related to working with Next.js**
+### 𝗦𝘁𝘂𝗳𝗳 𝘁𝗵𝗮𝘁 𝗜’𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝘄𝗶𝘁𝗵 𝗮 𝗹𝗶𝘁𝘁𝗹𝗲:
+- **Php**
+- **Redux**
+- **Graphql**
+- **Gatsby.js**
+- **Docker**
+
+### 𝗧𝗼𝗼𝗹𝘀 𝘁𝗵𝗮𝘁 𝗜’𝗺 𝘂𝘀𝗶𝗻𝗴 𝗲𝘃𝗲𝗿𝘆𝗱𝗮𝘆:
+- **Figma**
+- **Git**
+- **Webpack**
+- **Node**
+- **nvm**
+- **npm / yarn**
 
 ### 𝗪𝗮𝗻𝗻𝗮 𝗹𝗲𝗮𝗿𝗻:
-- **Advanced Three.js**
+- **More stuff related to 3D in web!**
 
 <br />
 
