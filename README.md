@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/71930296/236235567-f5ab5008-993d-4ba8-8cd3-b0cd57ee9108.svg" alt="" width='100%'/>
+<img src="https://github.com/BlackAndWhiteCarnage/BlackAndWhiteCarnage/assets/71930296/2acbb801-831e-46c8-b94f-a3dd5de338c1" alt="" width='100%'/>
 
 <br />
 
