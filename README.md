@@ -9,7 +9,7 @@
 <br />
 
 ## ( ͡° ͜ʖ ͡°) 𝗖𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝗺𝘆 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼
-https://portfoliorepsch.netlify.app/
+https://k-repsch-portfolio.netlify.app/
 
 <br />
 
