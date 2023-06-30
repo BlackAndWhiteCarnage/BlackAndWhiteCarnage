@@ -55,6 +55,10 @@ Leslie Nielsen and of course coding! 🎸🎞
 - **nvm**
 - **npm / yarn**
 
+### 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
+- **Vue**
+
+  
 ### 𝗪𝗮𝗻𝗻𝗮 𝗹𝗲𝗮𝗿𝗻:
 - **More stuff related to 3D in web!**
 
