@@ -46,6 +46,7 @@ Leslie Nielsen and of course coding! 🎸🎞
 - **Graphql**
 - **Gatsby.js**
 - **Docker**
+- **React Testing Library**
 
 ### 𝗧𝗼𝗼𝗹𝘀 𝘁𝗵𝗮𝘁 𝗜’𝗺 𝘂𝘀𝗶𝗻𝗴 𝗲𝘃𝗲𝗿𝘆𝗱𝗮𝘆:
 - **Figma**
