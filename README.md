@@ -39,14 +39,16 @@ Leslie Nielsen and of course coding! 🎸🎞
 - **Storybook**
 - **React Three**
 - **Framer Motion**
+- **Graphql**
+- **Strapi**
 
 ### 𝗦𝘁𝘂𝗳𝗳 𝘁𝗵𝗮𝘁 𝗜’𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝘄𝗶𝘁𝗵 𝗮 𝗹𝗶𝘁𝘁𝗹𝗲:
 - **Php**
 - **Redux**
-- **Graphql**
 - **Gatsby.js**
 - **Docker**
 - **React Testing Library**
+- **GSAP**
 
 ### 𝗧𝗼𝗼𝗹𝘀 𝘁𝗵𝗮𝘁 𝗜’𝗺 𝘂𝘀𝗶𝗻𝗴 𝗲𝘃𝗲𝗿𝘆𝗱𝗮𝘆:
 - **Figma**
