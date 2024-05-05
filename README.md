@@ -12,7 +12,7 @@
 
 ## 👾 𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-I am 24 years old dev from Poland. <br />
+I am 25 years old dev from Poland. <br />
 I'm in love with classic rock music, comedies with <br />
 Leslie Nielsen and of course coding! 🎸🎞
 
